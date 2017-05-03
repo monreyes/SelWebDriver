@@ -17,11 +17,11 @@ sum1 = sum_nums(2, 8)
 sum2 =  sum_nums(3, 3)
 
 print(sum1)
-
+print(sum2)
 string_add = sum_nums('one ', str(2)) #unless there's the 'str' command, it will yield error
 print(string_add) # concatenates the 2 string  as per above
 
-print(sum2)
+
 print("*************")
 
 def isMetro(city):
