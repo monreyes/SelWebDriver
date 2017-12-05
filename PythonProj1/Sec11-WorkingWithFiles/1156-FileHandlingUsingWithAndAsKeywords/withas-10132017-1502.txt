@@ -1,0 +1,2 @@
+This is an example of with as write/read, with server based current time filenaming
+This file was written on 10132017-1502

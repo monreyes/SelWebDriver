@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AutomateTheBoringStuff/.idea/AutomateTheBoringStuff.iml" filepath="$PROJECT_DIR$/../AutomateTheBoringStuff/.idea/AutomateTheBoringStuff.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SelWebDriver.iml" filepath="$PROJECT_DIR$/.idea/SelWebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../etc/.idea/etc.iml" filepath="$PROJECT_DIR$/../etc/.idea/etc.iml" />
     </modules>
   </component>
 </project>
